@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6df17fec-4cdf-4d89-ae58-3a502c34c5a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/yenijavaprojesi$run.ic" NAME="run Coverage Results" MODIFIED="1545943874723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tr.com.mipek.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/yenijavaprojesi$Main.ic" NAME="Main Coverage Results" MODIFIED="1545915483179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Gradle Kotlin DSL Settings" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UqIsecqSNwF4CRzjrjtUuAr2sg" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UseOfJDBCDriverClass</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576016069363" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ikonlar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\mühendislik tamamlama 1. dönem\java\yenijavaprojesi\lib" />
+      <recent name="F:\mühendislik tamamlama 1. dönem\java\yenijavaprojesi\ikon" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="tr.com.mipek.dal" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\mühendislik tamamlama 1. dönem\java\yenijavaprojesi\ikonlar" />
+      <recent name="D:\Tamamlama\java\yenijavaprojesi\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tr.com.mipek.interfaces" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tr.com.mipek.fe" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.run">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="yenijavaprojesi" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tr.com.mipek.test.run" />
+      <module name="yenijavaprojesi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tr.com.mipek.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.run" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6df17fec-4cdf-4d89-ae58-3a502c34c5a1" name="Default Changelist" comment="" />
+      <created>1545890898118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545890898118</updated>
+      <workItem from="1573560805409" duration="395000" />
+      <workItem from="1575355708367" duration="205000" />
+      <workItem from="1575367399317" duration="672000" />
+      <workItem from="1575710333558" duration="1290000" />
+      <workItem from="1575748551540" duration="2019000" />
+      <workItem from="1575807723312" duration="17686000" />
+      <workItem from="1575882868546" duration="7401000" />
+      <workItem from="1575926383809" duration="966000" />
+      <workItem from="1576000432446" duration="13909000" />
+      <workItem from="1576017048113" duration="1171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45714000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="108" key="#Project_Structure" timestamp="1576077981499">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="429" y="108" key="#Project_Structure/0.0.1676.902@0.0.1676.902" timestamp="1576077981499" />
+    <state x="642" y="159" key="#com.intellij.ide.util.MemberChooser" timestamp="1577171711440">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="642" y="159" key="#com.intellij.ide.util.MemberChooser/0.0.1676.902@0.0.1676.902" timestamp="1577171711440" />
+    <state x="639" y="335" width="397" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576687454494">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="639" y="335" width="397" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1676.902@0.0.1676.902" timestamp="1576687454494" />
+    <state x="549" y="191" key="FileChooserDialogImpl" timestamp="1576082896159">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1676.902@0.0.1676.902" timestamp="1576082896159" />
+    <state width="1632" height="235" key="GridCell.Tab.0.bottom" timestamp="1577190149799">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="235" key="GridCell.Tab.0.bottom/0.0.1676.902@0.0.1676.902" timestamp="1577190149799" />
+    <state width="1632" height="235" key="GridCell.Tab.0.center" timestamp="1577190149799">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="235" key="GridCell.Tab.0.center/0.0.1676.902@0.0.1676.902" timestamp="1577190149799" />
+    <state width="1632" height="235" key="GridCell.Tab.0.left" timestamp="1577190149799">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="235" key="GridCell.Tab.0.left/0.0.1676.902@0.0.1676.902" timestamp="1577190149799" />
+    <state width="1632" height="235" key="GridCell.Tab.0.right" timestamp="1577190149799">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="235" key="GridCell.Tab.0.right/0.0.1676.902@0.0.1676.902" timestamp="1577190149799" />
+    <state width="1632" height="292" key="GridCell.Tab.1.bottom" timestamp="1576540700145">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="292" key="GridCell.Tab.1.bottom/0.0.1676.902@0.0.1676.902" timestamp="1576540700145" />
+    <state width="1632" height="292" key="GridCell.Tab.1.center" timestamp="1576540700145">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="292" key="GridCell.Tab.1.center/0.0.1676.902@0.0.1676.902" timestamp="1576540700145" />
+    <state width="1632" height="292" key="GridCell.Tab.1.left" timestamp="1576540700145">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="292" key="GridCell.Tab.1.left/0.0.1676.902@0.0.1676.902" timestamp="1576540700145" />
+    <state width="1632" height="292" key="GridCell.Tab.1.right" timestamp="1576540700145">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="292" key="GridCell.Tab.1.right/0.0.1676.902@0.0.1676.902" timestamp="1576540700145" />
+    <state x="317" y="24" key="SettingsEditor" timestamp="1576082901362">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="317" y="24" key="SettingsEditor/0.0.1676.902@0.0.1676.902" timestamp="1576082901362" />
+    <state x="543" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1576147603812">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="543" y="274" key="com.intellij.ide.util.TipDialog/0.0.1676.902@0.0.1676.902" timestamp="1576147603812" />
+    <state x="536" y="56" width="602" height="789" key="find.popup" timestamp="1576540068954">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="536" y="56" width="602" height="789" key="find.popup/0.0.1676.902@0.0.1676.902" timestamp="1576540068954" />
+    <state x="545" y="78" key="refactoring.ChangeSignatureDialog" timestamp="1577019539279">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="545" y="78" key="refactoring.ChangeSignatureDialog/0.0.1676.902@0.0.1676.902" timestamp="1577019539278" />
+    <state x="494" y="206" key="run.anything.popup" timestamp="1576082673228">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="494" y="206" key="run.anything.popup/0.0.1676.902@0.0.1676.902" timestamp="1576082673228" />
+    <state x="500" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1576165674028">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="500" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1676.902@0.0.1676.902" timestamp="1576165674028" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/yenijavaprojesi$run.ic" NAME="run Coverage Results" MODIFIED="1576086574550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tr.com.mipek.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
